@@ -6,10 +6,17 @@ We used JavaScript, Bootstrap, and HTML to create a webpage and dynamic table wh
 ## Analysis
 
 Once entering the website, clients will be greeted by the title and a synopsis for the purpose of the website.  
-![]()
-Further down the website, clients will be able to view the ufo sighting data, and the 5 filters we will use to sort through said data. ![]() 
+
+![](https://github.com/WIPartain/UFOs/blob/main/Resources/websitetop.png)
+
+Further down the website, clients will be able to view the ufo sighting data, and the 5 filters we will use to sort through said data. 
+
+![](https://github.com/WIPartain/UFOs/blob/main/Resources/websitedata.png) 
+
 By entering the desired search criteria in the fields to the left of the data, clients should be able to sort by date, city, state, county, and shape. 
-![]()
+
+![](https://github.com/WIPartain/UFOs/blob/main/Resources/websitefiltered.png)
+
 In between searches, clients can clear the filters by clicking the clear filter button.  Multiple filters can be utlitized at the same time in order to narrow the client's search more effectively.
 
 ## Summary
